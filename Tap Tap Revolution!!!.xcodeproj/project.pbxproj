@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F0F9D9B22D3B2F900DA9471 /* ViewControllerShop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F0F9D9A22D3B2F900DA9471 /* ViewControllerShop.swift */; };
+		3F0F9D9D22D4C6E600DA9471 /* ViewControllerLogin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F0F9D9C22D4C6E600DA9471 /* ViewControllerLogin.swift */; };
+		3F0F9D9F22D508D400DA9471 /* ViewControllerAutomatic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F0F9D9E22D508D400DA9471 /* ViewControllerAutomatic.swift */; };
+		3F21F6FF22D6567200E77871 /* Cha_Ching_Register-Muska666-173262285 (1).wav in Resources */ = {isa = PBXBuildFile; fileRef = 3F21F6FE22D6567100E77871 /* Cha_Ching_Register-Muska666-173262285 (1).wav */; };
+		3F21F70122D65CB700E77871 /* Heavenly Choir Sound Effect.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3F21F70022D65CB700E77871 /* Heavenly Choir Sound Effect.mp3 */; };
+		3F21F70322D6641700E77871 /* 2018-10-06_-_Silly_Chicken_-_David_Fesliyan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3F21F70222D6641700E77871 /* 2018-10-06_-_Silly_Chicken_-_David_Fesliyan.mp3 */; };
+		3F3C4A8622D3780000A61721 /* ViewControllerGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3C4A8522D3780000A61721 /* ViewControllerGame.swift */; };
+		3F3C4A8822D3987900A61721 /* Click2-Sebastian-759472264.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3F3C4A8722D3987900A61721 /* Click2-Sebastian-759472264.wav */; };
 		3F55942322D0D08900E7C5C7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F55942222D0D08900E7C5C7 /* AppDelegate.swift */; };
 		3F55942522D0D08900E7C5C7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F55942422D0D08900E7C5C7 /* ViewController.swift */; };
 		3F55942822D0D08900E7C5C7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F55942622D0D08900E7C5C7 /* Main.storyboard */; };
@@ -14,6 +22,9 @@
 		3F55942D22D0D08C00E7C5C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F55942B22D0D08C00E7C5C7 /* LaunchScreen.storyboard */; };
 		3F55943822D0D08C00E7C5C7 /* Tap_Tap_Revolution___Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F55943722D0D08C00E7C5C7 /* Tap_Tap_Revolution___Tests.swift */; };
 		3F55944322D0D08C00E7C5C7 /* Tap_Tap_Revolution___UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F55944222D0D08C00E7C5C7 /* Tap_Tap_Revolution___UITests.swift */; };
+		3F9BF71D22D0D61600A8036B /* ViewControllerSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9BF71C22D0D61600A8036B /* ViewControllerSettings.swift */; };
+		3F9BF71F22D0E4B100A8036B /* ViewControllerInstructions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9BF71E22D0E4B100A8036B /* ViewControllerInstructions.swift */; };
+		3F9BF72122D0F45600A8036B /* ViewControllerGameBeginning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9BF72022D0F45600A8036B /* ViewControllerGameBeginning.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +45,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3F0F9D9A22D3B2F900DA9471 /* ViewControllerShop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerShop.swift; sourceTree = "<group>"; };
+		3F0F9D9C22D4C6E600DA9471 /* ViewControllerLogin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerLogin.swift; sourceTree = "<group>"; };
+		3F0F9D9E22D508D400DA9471 /* ViewControllerAutomatic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerAutomatic.swift; sourceTree = "<group>"; };
+		3F21F6FE22D6567100E77871 /* Cha_Ching_Register-Muska666-173262285 (1).wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "Cha_Ching_Register-Muska666-173262285 (1).wav"; path = "../../Cha_Ching_Register-Muska666-173262285 (1).wav"; sourceTree = "<group>"; };
+		3F21F70022D65CB700E77871 /* Heavenly Choir Sound Effect.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Heavenly Choir Sound Effect.mp3"; path = "../../Heavenly Choir Sound Effect.mp3"; sourceTree = "<group>"; };
+		3F21F70222D6641700E77871 /* 2018-10-06_-_Silly_Chicken_-_David_Fesliyan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "2018-10-06_-_Silly_Chicken_-_David_Fesliyan.mp3"; path = "../../2018-10-06_-_Silly_Chicken_-_David_Fesliyan.mp3"; sourceTree = "<group>"; };
+		3F3C4A8522D3780000A61721 /* ViewControllerGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerGame.swift; sourceTree = "<group>"; };
+		3F3C4A8722D3987900A61721 /* Click2-Sebastian-759472264.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "Click2-Sebastian-759472264.wav"; path = "../../Click2-Sebastian-759472264.wav"; sourceTree = "<group>"; };
 		3F55941F22D0D08900E7C5C7 /* Tap Tap Revolution!!!.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tap Tap Revolution!!!.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F55942222D0D08900E7C5C7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3F55942422D0D08900E7C5C7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +66,9 @@
 		3F55943E22D0D08C00E7C5C7 /* Tap Tap Revolution!!!UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tap Tap Revolution!!!UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F55944222D0D08C00E7C5C7 /* Tap_Tap_Revolution___UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Tap_Tap_Revolution___UITests.swift"; sourceTree = "<group>"; };
 		3F55944422D0D08C00E7C5C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F9BF71C22D0D61600A8036B /* ViewControllerSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerSettings.swift; sourceTree = "<group>"; };
+		3F9BF71E22D0E4B100A8036B /* ViewControllerInstructions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerInstructions.swift; sourceTree = "<group>"; };
+		3F9BF72022D0F45600A8036B /* ViewControllerGameBeginning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerGameBeginning.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,9 +122,20 @@
 				3F55942222D0D08900E7C5C7 /* AppDelegate.swift */,
 				3F55942422D0D08900E7C5C7 /* ViewController.swift */,
 				3F55942622D0D08900E7C5C7 /* Main.storyboard */,
+				3F0F9D9E22D508D400DA9471 /* ViewControllerAutomatic.swift */,
+				3F9BF72022D0F45600A8036B /* ViewControllerGameBeginning.swift */,
+				3F0F9D9C22D4C6E600DA9471 /* ViewControllerLogin.swift */,
+				3F0F9D9A22D3B2F900DA9471 /* ViewControllerShop.swift */,
+				3F3C4A8522D3780000A61721 /* ViewControllerGame.swift */,
+				3F9BF71E22D0E4B100A8036B /* ViewControllerInstructions.swift */,
+				3F9BF71C22D0D61600A8036B /* ViewControllerSettings.swift */,
 				3F55942922D0D08C00E7C5C7 /* Assets.xcassets */,
 				3F55942B22D0D08C00E7C5C7 /* LaunchScreen.storyboard */,
 				3F55942E22D0D08C00E7C5C7 /* Info.plist */,
+				3F3C4A8722D3987900A61721 /* Click2-Sebastian-759472264.wav */,
+				3F21F6FE22D6567100E77871 /* Cha_Ching_Register-Muska666-173262285 (1).wav */,
+				3F21F70022D65CB700E77871 /* Heavenly Choir Sound Effect.mp3 */,
+				3F21F70222D6641700E77871 /* 2018-10-06_-_Silly_Chicken_-_David_Fesliyan.mp3 */,
 			);
 			path = "Tap Tap Revolution!!!";
 			sourceTree = "<group>";
@@ -229,6 +262,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F21F70122D65CB700E77871 /* Heavenly Choir Sound Effect.mp3 in Resources */,
+				3F3C4A8822D3987900A61721 /* Click2-Sebastian-759472264.wav in Resources */,
+				3F21F70322D6641700E77871 /* 2018-10-06_-_Silly_Chicken_-_David_Fesliyan.mp3 in Resources */,
+				3F21F6FF22D6567200E77871 /* Cha_Ching_Register-Muska666-173262285 (1).wav in Resources */,
 				3F55942D22D0D08C00E7C5C7 /* LaunchScreen.storyboard in Resources */,
 				3F55942A22D0D08C00E7C5C7 /* Assets.xcassets in Resources */,
 				3F55942822D0D08900E7C5C7 /* Main.storyboard in Resources */,
@@ -256,8 +293,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F0F9D9B22D3B2F900DA9471 /* ViewControllerShop.swift in Sources */,
 				3F55942522D0D08900E7C5C7 /* ViewController.swift in Sources */,
+				3F9BF72122D0F45600A8036B /* ViewControllerGameBeginning.swift in Sources */,
+				3F3C4A8622D3780000A61721 /* ViewControllerGame.swift in Sources */,
+				3F0F9D9D22D4C6E600DA9471 /* ViewControllerLogin.swift in Sources */,
+				3F0F9D9F22D508D400DA9471 /* ViewControllerAutomatic.swift in Sources */,
 				3F55942322D0D08900E7C5C7 /* AppDelegate.swift in Sources */,
+				3F9BF71F22D0E4B100A8036B /* ViewControllerInstructions.swift in Sources */,
+				3F9BF71D22D0D61600A8036B /* ViewControllerSettings.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -441,7 +485,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "org.Hotchkiss.Tap-Tap-Revolution---";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -458,7 +502,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "org.Hotchkiss.Tap-Tap-Revolution---";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
